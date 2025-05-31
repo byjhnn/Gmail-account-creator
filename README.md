@@ -6,5 +6,6 @@ Create unlimited gmail accounts | support using proxy
 - unlimited creation
 - algorithm works smoothly
 
-# telegram
+# telegram 
+text me
 https://t.me/johnreal01
